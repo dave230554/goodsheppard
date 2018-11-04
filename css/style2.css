@@ -78,12 +78,15 @@ banner
     border-radius: 0px;
 }
 .navbar-default {
-    background-color: #fff;
+    background: rgba(28,74,90, 0.9);
+    /* background-color: #fff; */
     padding: 20px 0;
     transition: all 0.3s;
 }
 .navbar-default {
-    background-color: transparent;
+    background: rgba(28,74,90, 0.9);
+
+    /* background-color: transparent; */
     border: 0px;
 }
 .navbar {
@@ -365,7 +368,7 @@ testimonial
 /***************************************
 cta -2
 ***************************************/
-#about{
+#cta-2{
 	background-color: rgb(41, 48, 46);
 }
 .white{
