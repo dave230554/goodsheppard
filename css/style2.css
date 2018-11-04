@@ -15,12 +15,6 @@ body {
 
 a { color: inherit; } 
 
-a.anchor {
-    display: block;
-    position: relative;
-    top: -250px;
-}
-
 ol, ul {
 	list-style: none;
 }
